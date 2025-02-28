@@ -1,4 +1,4 @@
-name = "ramazan07"
+name = "ramazan10"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 PROXYIP = "46.32.187.51:443"
-UUID = "ramazan-2000"
+UUID = "cdbe1782-dc31-4f0c-bcda-60891b4eac20"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
